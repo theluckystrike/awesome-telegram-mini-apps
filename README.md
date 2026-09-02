@@ -105,6 +105,11 @@ They can take advantage of many features out of the box, including seamless auth
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
+- [WhisperLock](https://t.me/WhisperLockBot/app) - Post a locked message inline into any chat that only the intended person can open.
+- [Nudge](https://t.me/NudgeRemindBot/app) - Chat reminders on a per-user timezone with six ways to say when.
+- [AnonInbox](https://t.me/AnonInboxProBot/app) - A personal link where strangers can message you anonymously and you reply from an inbox.
+- [SplitTabs](https://t.me/SplitTabsBot/app) - Group expense ledger with balances, minimal settlement, and CSV export.
+- [HabitStreak](https://t.me/HabitStreakProBot/app) - Tap-to-check-in habit tracker with streaks and an hourly reminder cron.
 
 ## Communities
 
