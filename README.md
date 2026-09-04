@@ -110,6 +110,11 @@ They can take advantage of many features out of the box, including seamless auth
 - [AnonInbox](https://t.me/AnonInboxProBot/app) - A personal link where strangers can message you anonymously and you reply from an inbox.
 - [SplitTabs](https://t.me/SplitTabsBot/app) - Group expense ledger with balances, minimal settlement, and CSV export.
 - [HabitStreak](https://t.me/HabitStreakProBot/app) - Tap-to-check-in habit tracker with streaks and an hourly reminder cron.
+- [Event RSVP](https://t.me/EventRSVPProBot/app) - Post an event card with Going/Maybe/Can't buttons and get automatic 1-hour reminders.
+- [AnonSay](https://t.me/AnonSayProBot/app) - Post anonymously into a Telegram group through the bot, with admin reveal and ban tools.
+- [Icebreaker Daily](https://t.me/IcebreakerDailyBot/app) - Posts a daily conversation-starter question in a Telegram group.
+- [Secret Santa](https://t.me/SantaDrawProBot/app) - Runs a Secret Santa gift exchange for a group: join, draw, and DM each participant their match.
+- [TinyTelegramTools](https://t.me/TinyTelegramToolsBot) - A directory hub for a small fleet of single-purpose Telegram utility bots, with Direct-Link Mini Apps for each.
 
 ## Communities
 
