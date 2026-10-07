@@ -1,113 +1,811 @@
-# Awesome Telegram Mini Apps [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+<div align="center">
+  <a href="https://tg.app">
+    <img src="logo.svg" alt="tg.app" width="220" />
+  </a>
+  <h1>Awesome Telegram Mini Apps</h1>
+  <p>The most complete directory of Telegram Mini Apps — curated by <a href="https://tg.app"><strong>tg.app</strong></a></p>
 
-<img src="assets/tapps.png" align="right" width="100" style="max-width: 100%" />
+  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  [![Browse on tg.app](https://img.shields.io/badge/Browse%20on-tg.app-0167FE?style=flat&logoColor=white)](https://tg.app)
+  [![Submit your app](https://img.shields.io/badge/Submit%20your%20app-tg.app-0167FE?style=flat&logoColor=white)](https://tg.app)
+</div>
 
-> A curated list of awesome things related to Telegram Mini Apps.
+---
 
-Telegram Mini Apps are web apps that are launched right inside [Telegram](https://telegram.org), letting them have a consistent user experience.
-They can take advantage of many features out of the box, including seamless authorization, integrated payments, push notifications, and much more.
+> **[tg.app](https://tg.app)** is the leading discovery platform for Telegram Mini Apps. Browse ratings, reviews, and categories — or submit your own app to reach thousands of Telegram users.
 
 ## Contents
 
-- [Resources](#resources)
-- [Articles](#articles)
-- [Videos](#videos)
-- [UI Kits](#ui-kits)
-- [Libraries](#libraries)
-- [Templates](#templates)
-- [Projects](#projects)
-- [Products](#products)
-- [Communities](#communities)
+- [Games](#games) (275)
+- [Finance](#finance) (107)
+- [Tools](#tools) (150)
+- [NFT](#nft) (99)
+- [Wallets](#wallets) (39)
+- [Social](#social) (21)
+- [AI Agents](#ai-agents) (5)
+- [Staking](#staking) (11)
+- [Shopping](#shopping) (12)
 
-## Resources
+---
 
-<!-- lint ignore double-link -->
+## Games
 
-- [Official Guide](https://core.telegram.org/bots/webapps)
-- [Community Guide](https://docs.telegram-mini-apps.com)
-- [TON Documentation Guide](https://docs.ton.org/develop/dapps/twa)
-- [Telegram Mini Apps Issues](https://github.com/Telegram-Mini-Apps/issues)
-- [Trending Apps](https://t.me/trendingapps)
+- [COYTX](https://t.me/coytxcombot) — Spin the Meme Roulette and Win Meme Coins!
+- [Spin Town](https://t.me/spintownbot/play?startapp=catalog_tonapp) — 🔥Revolutionary Spin to Earn Game 🎰Spin to try your luck and upgrade village! 🚀Join to Airdrop
+- [Mega.bet ⚡️](https://t.me/megabeteng) — 500% Bonus up to €12,000 + 777 FS👌
+- [Catizen](https://t.me/catizenbot/gameapp?startapp=rp_1000004) — Play,Earn - Where Every Game Leads to an Airdrop
+- [PLAYS Hub](https://t.me/playshubbot) — 🚀 Hurry up! Tons of games and rewards are waiting for you. The $PLAYS token will be released soon.
+- [CryptoWorms](https://t.me/cryptowormbot) — Earn the $worm token by eating it on the map.
+- [Litrbull](https://t.me/litrbullbot) — Where milk meets digits, magic happens... 💧🥛✨
+- [Slot.win](https://t.me/slotcoin) — #1 Social Games and I-gaming Platform! Play With TON 🎲
+- [BeeCoin](https://t.me/bee_coinbot/?start=8) — Join, play, and earn TonCoin, BeeCoin and USDT!
+- [BeeHarvest](https://t.me/beeharvestbot/bee?startapp=pt-tonapp_ref) — Earn $AMBER tokens daily in the BeeHarvest game
+- [Cat Gold Miner](https://t.me/catgoldminerbot) — Cat Gold Miner: Where Purr-fectly adorable meets Purr-fectly profitable!
+- [Playgram Casino 🎰](https://t.me/playgram?start=tonapp) — Start with 100 free spins!
+- [Merge Pals](https://t.me/mergepalsbot/game?startapp=TONStoreListing) — Furry Pals, Limitless Merges.
+- [Versus](https://t.me/versus_community) — Play for fun, climb the leaderboard and earn rewards!
+- [Betrunner](https://t.me/betrunnerofficialbot) — Licensed crypto Casino and Sportsbook in Telegram!
+- [CRYPTICO](https://t.me/CisChatCryptico) — CRYPTICO – Play and trade
+- [SPINARIUM 👑](https://t.me/spinariumcasino) — #1 Casino by user experience: 💸 25% Cashback, 10% Rakeback, 50.000$ Rewards!
+- [Real WhiteDogs](https://t.me/Real_WhiteDogsbot) — Turn your effortless mining and task into reward.
+- [Otter Loot](https://t.me/otterlootbot/otterloot?startapp=utmsource-social_utmmedium-tele_utmcampaign-ranking) — Jump in the Otter world where you can Spin, Raid, Steal to earn 🦦
+- [Elfbird](https://t.me/Elfbirdbot/Elfbird?startapp=referrer_id%3D7727324872) — Elfbird is a very popular pet raising game on the Telegram . Experience the magical bird world!
+- [Wow 🏆](https://t.me/Wowairdropbot/wow?startapp=IK503P) — 🏆 Play, Compete, Earn – WOW Bot is the Game Changer! 🚀
+- [Pulse Market](https://t.me/Pulse_gamebot) — The World’s First Decentralized Prediction Market (DPM) on TON!
+- [Ultimate Poker](https://t.me/ultimatepokerbot) — The future of poker, right in your Telegram!
+- [Spincity Tycoon](https://t.me/SpinCityTycoonbot) — 🔥 Strategy meets wealth: Mine $SPINFUN + win Bitcoin rewards! Be the next Tycoon. 🚀
+- [Not Shiba](https://t.me/notshibabot) — Increase your farming, be active in daily tasks and you will be rewarded
+- [Money Garden AI](https://t.me/moneygardenaibot) — An innovative Telegram Mini App where finance meets fun in a vibrant virtual ecosystem.
+- [Disi Casino](https://t.me/disi_rus) — Progressive Casino on Telegram
+- [Dig It Gold Game](https://t.me/DigItGoldGame) — A Web3 play-to-earn mining game on TON where players collect ore and $NUGS
+- [💎Ton Texas CowBoy💎](https://t.me/TexasCowboybot) — New and Exciting Texas Hold’em game played with TON! Let's get TON!
+- [TON Lucky](https://t.me/lucky_tonbot?start=tonapp) — Earn & Bet $LUCKY coins!
+- [Cat ID Paws](https://t.me/catidpawsbot) — Swipe Paws & Earn Coins
+- [Earnigram](https://t.me/Earnigram_group) — 10+ ways to earn on Telegram!
+- [Yescoin](https://t.me/realyescoinbot/something?startapp) — Yescoin is a viral clicker game where you earn coins by tapping the screen and completing tasks.
+- [@Whale](https://t.me/whale) — Online Casino And Sportsbook on TON  #sometimeslosealwayswin
+- [Durov Run](https://t.me/durovrunbot/run?startapp=runId6148871509_from=tonapp) — Durov Run is an endless runner game where the main character is Pavel Durov, overcomes obstacles
+- [Space Hunters HUB](https://t.me/spacehuntersbot) — We create free-to-play games with a distinctive style, where your journey truly matters. 🚀
+- [GOAT Gaming](https://t.me/goatgamingbot) — GOAT Gaming is the ultimate platform to play, compete, and win prizes, instantly accessible anytime
+- [Sengoku TON](https://t.me/sengoku_ton_chat) — Build your village, collect NFTs, and battle other players to steal their SGK. Earn TON every day.
+- [Bons Casino](https://t.me/bons) — Everything you want in Casino Slots games are just a TAP on Bot!
+- [Mystic Forge](https://t.me/mysticforgebot/game) — Collect unique artifacts and mine MST.
+- [Anycraft](https://t.me/anycraftbot/play?startapp=-tonapp) — AI-Powered Alchemy Game with rewards in TON
+- [BC.GAME](https://t.me/bc_officialbot) — BCGAME is one of the most popular casinos worldwide. Grab your daily 5BTC bonus and join the action!
+- [TON Map](https://t.me/theTonMapbot) — Main Map of Telegram & TON
+- [Bibizean TCG](https://t.me/BibizeanTCGbot) — MVP NFT card game, future marketplace platform.
+- [Cowtopia](https://t.me/cowtopiabot) — 👨‍🌾 Become a true farmer: collect milk, upgrade farms, complete tasks, and invite friends
+- [Vending Coin ($VNDG)](https://t.me/VNDG_COIN_BOT) — Earn points, get $VNDG tokens, the airdrop is near!
+- [KriptoMir](https://t.me/kriptofarmbot) — A game dedicated to the creation of our Crypto World, in which we will be able to farm our own coin.
+- [Ai Angels](https://t.me/AI_Angels_Official) — Tap, Earn Diamonds & Unlock Super Hot AI Girls on Telegram
+- [Crybble Wars](https://t.me/+d7TlXLd5JzY4ZTVh) — Crybble Wars — Gobble, grow your crypto bubble, and earn $TON and other valuable prizes!
+- [Chessio](https://t.me/chessiobot) — Online Chess Platform. Play, Solve and Compete to Earn!
+- [Mind Guardians 🏹](https://t.me/mindguardiansbot) — Defend Mind University 🏆 Earn Airdrop & Multi-Million Dollar Manor RWA While You Play!
+- [Cattea](https://t.me/CatteaAIbot/gameapp?startapp=r_7_1002738) — Simple to play, easy to earn！
+- [TapTopia](https://t.me/taptopia_io) — Tap-to-earn battles on Telegram. Tap, evolve your Meerkat, climb the ranks.
+- [GRAND BANG](https://t.me/TheGrandBang) — SPACE AGENCY SIMULATOR
+- [1xMM Market Master](https://t.me/onexmm_official) — Trade like a pro, climb the leaderboard, catch rewards, and become the Master of Crypto Markets!
+- [Notto](https://t.me/notto) — Trust the code, not the people.
+- [NE.CASINO](https://t.me/necaplaybot) — 🔥 Free casino with real prizes!
+- [Rakebit Casino](https://t.me/RakeBit_Channel) — Crypto Casino & Sportsbook with awesome design
+- [Lucky Rooms](https://t.me/luckyroomsbot) — Upgrade cards, get passive income or take coins from other players. Daily rewards included.
+- [NetFishion](https://t.me/PreNetfishionbot/app?startapp) — NetFishion is a TON blockchain-powered 3D ocean adventure.
+- [TON Poker](https://t.me/mytonpokerbot?start=ref-tonapp) — TON Poker is the first Telegram poker room on TON.
+- [DealTON](https://t.me/dealtonbot) — DealTON: Make the Right Deal, Become a Millionaire!
+- [Enchant TON](https://t.me/EnchantTONbot) — Luck plays a role, but a savvy selling strategy is your key to victory.
+- [2048 TON](https://t.me/MergeNumberTONbot/mergenumberapp) — The legendary puzzle game 2048 is now available on the TON App! Join the Airdrop!
+- [PsyDuck Game](https://t.me/psyduckgamexyzbot) — Mine, Spin, and Earn BIG! Join PsyDuckGame now!
+- [Buinkers](https://t.me/buinkers) — Play for airdrop parody game.
+- [Etaku](https://t.me/etakubot) — Etaku: Play to Earn in Anime Art Heaven
+- [Sprize](https://t.me/sprizebot/app?startapp=tonapp) — Play games win TON & USDT. Earn real rewards with Sprize! 🚀🎰
+- [Bcoin 2048](https://t.me/Bcoin2048bot) — Play 2048 game and earn TON and Bcoin.
+- [PokerFun](https://t.me/Pokerfunbot) — Play Texas Hold'em, Truco, Yummy, and more on Telegram
+- [TonFlip](https://t.me/tonfliptgbot) — 100% fair decentralized coin flip game with transparent odds!
+- [Catmoonity](https://t.me/catmoonitybot) — Swipe. Earn. Repeat. Prepare for Airdrop Century
+- [TON GO](https://t.me/ton_go_gamebot/ton_go?startapp=source_msOW19h6ER) — TON GO is a competitive parkour game on Telegram with crypto prizes.
+- [The Sparky](https://t.me/SparkyOfficialchat) — Tap, spin, evolve & qualify for the $SPARKY airdrop.
+- [ByteLords](https://t.me/ByteLordsChannel) — Virtual Mining Empire Game
+- [Mines](https://t.me/tonminesbot) — Crypto game «Mines»
+- [Quiz Wars](https://t.me/quizwars) — Fast quiz battles with real prizes. Leagues, daily & weekly tournaments, collectible avatars.
+- [Rumble Arcade](https://t.me/RumbleArcadeNews) — A unique PvP autobattler where every choice matters
+- [Lotteton](https://lotteton.io/) — Crypto-NFT lottery on TON
+- [Tonluck](https://tonluck.com/) — Try your luck
+- [Mech3](https://t.me/MechArcadebot) — Match tiles, battle foes, and earn rewards in Mech3!
+- [Token Tails](https://t.me/catbassadorsbot) — Play to Save, Play to Earn
+- [TradyFi](https://t.me/TradyFiCC) — Trade | Play | Invest --- All in one Telegram Miniapp on TON.
+- [TON Shaker](https://t.me/tonshakerbot) — Shake your phone, earn real crypto with TON Shaker! Join the Shakeconomy!
+- [MoonTap](https://t.me/MoonTapCommunity) — Cosmic clicker game inside Telegram
+- [LumaCoin](https://t.me/lumacoinbot) — The first Telegram app for mining cryptocurrency. Start mining today and join the future of crypto!​
+- [Pokergram](https://t.me/Pokergramnews) — Pokergram – #1 Free-to-Play Poker Game on Telegram!
+- [Memes Corp.](https://t.me/memescorpbot) — An exciting gaming adventure in the world of Memes! Match, build, and earn Memoria Coins!
+- [TON Raids](https://t.me/tonraids) — Real-time TON raid battles
+- [Not Pixel](https://t.me/notpixel) — Not Pixel brings together creativity and crypto on an interactive canvas
+- [#ApexHash](https://t.me/apexhashcommunity) — Next tier mining in Telegram
+- [Casino.tg](https://t.me/CasinoTGCommunity) — Welcome to Casino.TG - Your Premium Telegram Casino! 🌟
+- [TONKING Network](https://t.me/TONKREFERBOT) — Social Coin powering a secret social, gaming and entertainment network connected by Telegram Wallets
+- [Wovula](https://t.me/wovula_official) — Next-gen Space Strategy & Real-Time Trading Economy on TON.
+- [$RETRO](https://t.me/joinretrocoinbot) — Mine $RETRO coins! 🚀
+- [Giraffe Kombat](https://t.me/GiraffeKombatbot) — 💣Everything is over💥  🚨It is the turn of the Giraffes🦒
+- [Nomka](https://t.me/NomkaFunbot) — Nomka is a fast-paced competitive arcade with NMK rewards and VIP quests.
+- [$BOOM](https://t.me/boom) — $Boom will become the fastest-growing crypto community, allowing everyone to earn REAL money.
+- [ASTREX](https://t.me/astrex_game) — Your space adventure begins here.
+- [ZombieTrain](https://t.me/zombietrainbot) — ZombieTrain is a casual 3D game available on Telegram. Upgradable vehicles, weapons and zombies!
+- [Cat Chef](https://t.me/catchefbot) — Let's airdrop to earn meow ~🐈
+- [Clayton](https://t.me/claytoncoinbot) — Mascot of TON ecosystem
+- [TON CAPS](https://toncaps.io/) — The Legendary Caps Game on TON
+- [Crashino](https://t.me/Crash1nobot) — Licensed Casino on Telegram with Ton and Wallet support
+- [Otters](https://t.me/ottersgames) — Earn Otters Coins by farming, tasks, referrals, and Quick Share.
+- [IQcoin](https://t.me/IQCOIN_Smart_Community) — Ecosystem of intellectual games that rewards thinking, learning, and personal growth with real value
+- [Hempton](https://t.me/Hempton_CIS) — Run your shady farm, hustle your crop, cash out in USDT — welcome to Hempton.
+- [#TotalHash](https://t.me/totalhashbot) — TotalHash is a game that lets you earn tokens by harnessing the computing power of your device.
+- [Puffy Games](https://t.me/puffygamesbot) — True on-chain games on Telegram.
+- [Lucky TON](https://t.me/lkytonbot) — Lucky TON is an app that turns your actions into incredible opportunities.
+- [My Corp | Play&Earn](https://t.me/mycorpbot/start?startapp=tonapp) — Web3 game for Telegram based on the Ton blockchain
+- [Toncast](https://t.me/toncastnews) — Telegram Gift Price Prediciton Market
+- [Pods App](https://t.me/podsgames) — Guess the numbers and get instant rewards in Telegram Stars
+- [TonDice](https://tondice.io) — Win or Earn
+- [Cuefa Robot](https://t.me/CuefaRobot) — Crypto game «Rock, Scissors, Paper»
+- [ULURU BET](https://t.me/ulurubet) — Zero-KYC on all deposit & withdrawal. Play with $TON. Bet on all Sports & Casino games!
+- [SCROLL.BET](https://t.me/scrollbetbot) — 🎰  Licensed Telegram Crypto Casino and Sportsbook  ⚽️🏀
+- [LLL Lossless Lottery](https://t.me/lll_space) — Play the pre-launch LLL game, earn chips, and climb the leaderboard in a lossless lottery on TON.
+- [Bitsler.com Casino](https://t.me/s/bitsler_casino) — Crypto Casino & Sportsbook / Крипто Казино & Букмекер
+- [Random.tg](https://t.me/+kzFonLkDVLA4M2My) — Decentralized lottery. Try your chance to win 2x more!
+- [AURA x CAPITAL](https://t.me/auraxcryptobot) — An exchange that combines CEX and DEX liquidity with the ability to launch algorithmic trading.
+- [OrbitFall](https://t.me/OrbitfallNews) — Strategic Multi-chain Mining Simulator (TON/Ronin). Approved by Telegram Apps Center.
+- [Chicker: Your Chicks](https://t.me/yourchicksbot) — Welcome to Chicker - the P2E Tycoon telegram web app game!
+- [Monorix](https://t.me/monorixbot) — Tap to earn game built on TON.
+- [Gumcoin](https://t.me/gumcoin) — Farm Gumcoin
+- [Magiton](https://t.me/magitonbot) — A magical adventure game to find hidden objects and retrieve a legendary sword.
+- [FortuneHusky🎲](https://t.me/FortuneHusky) — 🎲 One roll to rule them all.  💰 Fortune awaits in FortuneHusky!
+- [Tilda](https://t.me/TildaApp) — Mine. Play. Earn.
+- [DARK-ROULETTE](https://t.me/nftroulette) — Roulette with worthy prizes. A free spin every 24 hours.
+- [Mars2049](https://t.me/mars2049channel) — Build on Mars. Roll dice, earn rewards.
+- [DexCoyote Legends](https://t.me/dcl1bot) — DexCoyote Legends is a new generation crypto game on the TON blockchain-network.
+- [Gold Age](https://t.me/goldagechat) — In Gold Age, you'll find resource-rich lands, build structures, mine, and trade them for gold.
+- [Escape Coin](https://t.me/escapecoinbotcommunitychat) — Addictive runner game! Collect coins, upgrade your boosts, and dominate the global leaderboard.
+- [CITY Holder](https://t.me/cityholder) — Create your dream city and rule it in City Holder!
+- [Terminus Coin Drop](https://t.me/TerminusCoinbot) — Terminus is a TON-based clicker game: earn coins, boost with rewards, and compete with friends.
+- [Zernosklad](https://t.me/TonTake) — In this game, you can get TAKE cryptocurrency for free
+- [#HexMine](https://t.me/hexminecoin) — HexMine is next-generation Telegram mining in the TBIT ecosystem powered by the TON network.
+- [Slimak Adventures](https://t.me/slimak_adventures) — A pixel game about a snail who finally said “enough hiding!” 🏡
+- [Gem Farming](https://t.me/Gem_Farming) — Earn GEMs
+- [Hero Guild](https://t.me/heroguildbot) — Connect Steam and turn your gaming hours into crypto.
+- [Gatto](https://t.me/gatto_game) — Over a million players are already growing their Gattomons and mining a TON in Gatto💎
+- [🎲 XTON 💎](https://t.me/XTON_ROBOT) — 🎰 A unique Telegram casino with fair PvP and PvE games! Enjoy gaming right in the messenger.
+- [RADIOGRAM📻](https://t.me/radiogrammbot) — First “Listen & Earn” Telegram App. Earn Impulse by listening to music. 🎧💰
+- [Grand Journey](https://t.me/grandjourneybot) — Grand Journey - Play To Airdrop - Play To Earn
+- [degenerative space](https://t.me/degenerativespacebot) — The new Web3 game for special people. Mint NFT, generate stickers and poop on friends.
+- [Rarecrows](https://t.me/RarecrowAnnouncements) — A farming-based game where players earn and mint unique Rarecrow NFTs through gameplay.
+- [Batte Planes](https://t.me/battleplanes) — TON blockchain-based mobile game
+- [@tontribebot](https://t.me/tontribebot) — Welcome to tribe leader! Where you'll raise legendary PET creatures to mine $TON & $TRE.
+- [TAP TON GAME](https://t.me/Taptongamebot) — TAP TON is a play to earn game and cash out every day.
+- [brrrrr](https://t.me/brrrrrgamebot) — haha money printer go brrrrr
+- [TON Cook](https://t.me/toncookbot) — Play TON Earn TON
+- [Saw Token](https://t.me/SAWCOIN_BOT) — Join Saw Token: Earn digital currencies through games and daily challenges!
+- [Crypto Fruit Farm](https://t.me/fruitcryptofarm) — Build your dream fruit farm, harvest fresh fruits, complete tasks, swap your points to Crypto!
+- [GAMEE](https://t.me/gamee) — Play, Mine, and Earn with Friends on Telegram!
+- [TON World](https://t.me/tonworbot) — Claim your favourite 🇬🇧🇯🇵🇩🇪 Countries and earn TON! New Country drops every 7th day.
+- [RockPaperScissorFU🖕](https://t.me/XXXX_by_tallyup) — Humanity’s finest game + updated game theory & betting.  Play free. Win 🖕FUcoin. Bet TON.
+- [ClownTown](https://t.me/ClownTownRobot) — Dive into a world of endless fun and challenges with The Cube game.
+- [Raccoon STARZ](https://t.me/raccoonstarzchat) — How hard can you shake your phone for Raccoons?
+- [Piggie Game](https://t.me/piggie?start=r_ad_TonApp) — An exciting bright clicker game with the main character - a charming piggy bank
+- [Sigma](https://t.me/sigmatonbot) — How cool are you in the TON network?
+- [Go To Planets](https://t.me/gotoplanetsbot) — Crypto game with a space plot based on Toncoin (TON)
+- [BeeTon](https://t.me/beetongamebot) — Farm $BEET token with NFT cells and bees!
+- [MallDriven Game](https://t.me/MallDriven) — Build, Compete, and Earn in a Virtual Business World
+- [Wordly](https://t.me/wordlythegamebot/wordlythegame) — Use your username in a new way!
+- [Ballz of Steel](https://t.me/ballzofsteelbot) — Play, Earn – Where Every Drop Leads to Rewards!
+- [PAPERCOIN](https://t.me/papercoinbot) — Yet another clicker game on TON
+- [Smash Quest](https://t.me/smashquestbot) — Slay monsters & earn rewards! 💥 Conquer the leaderboard in Smash Quest’s tap-to-earn RPG!
+- [Goblin’s Garage](https://t.me/GoblinMine) — Economic strategy game
+- [Moon Cards](https://t.me/mooncards) — Collect Moon Cards, build decks, and battle opponents in this fun and strategic mobile card game!
+- [Chasing Jiggy](https://t.me/chasingjiggycommunity) — Chasing Jiggy is an ultimate play-to-earn game for everyone, Unlock wealth through Play
+- [Games Catalog](https://8xr.io) — Web2/Web3 games catalog
+- [XD2048](https://t.me/XD2048BOT) — 2048 1v1, Play And Earn. Slide To Victory, Unleash Your Inner Strategist.
+- [Cat vs Alien](https://t.me/catvsalienbot/catvsaliengame) — DEFENSE AND SURVIVE GAME
+- [TetriX4](https://t.me/tetrix4bot) — There are two types of people in the world, TetriX4’s players and the silly people!
+- [TomTalk](https://t.me/TOMTALK_BOT) — First Talk to Earn Game on TON Network!
+- [QuizCraze](https://t.me/quizcrazebot) — QuizCraze is a quiz game to test your knowledge, earn Q-Coins and compete with frens on leaderboard!
+- [Pig of Ton](https://t.me/pigoftonbot) — Merge Pigs, Climb Rank, Win Reward and Have Fun!
+- [String Games](https://t.me/string_gamesbot) — Play String Games and Win String Tokens
+- [Empire Game ](https://t.me/empire_gamebot/app) — Welcome to Empire! Hire and upgrade workers, level up, and earn profits.
+- [Telegram Fights](https://toncoingame.ru/) — PVP, Economy, Market, Rpg
+- [TON Chess](https://tonplay.io/games/RDKcT26bNo) — TON Chess is the legendary board game on the TON blockchain!
+- [Piloton](https://t.me/pilotongamebot) — Pilots assemble again! Unleash, play, and earn money here - every game brings an airdrop adventure!
+- [Escape from Zeya](https://tonplay.io/games/DZmrVk1mJ5) — Escape from Zeya is an NFT-based strategy game developed on the TON blockchain!
+- [Durak on TON](https://t.me/durakton_playbot) — Play with friends, earn points, get airdrop!
+- [KingCoin](https://t.me/KingCoin_ebot) — 🌴 Welcome to the cryptojungle! Grow up small monkey into the biggest primate in the world!
+- [Chainmedia链媒](https://t.me/chainmediaio) — 一个以区块链自驱的区块链媒体平台
+- [WGScoin](https://t.me/Whatsgamesbot) — 🎮 Play, 💵 Earn, and ⭐️ Hype! Enjoy Meme Games & Earn Easily on Telegram Mini App Based on Ton.
+- [B UserBot](https://t.me/b_usersbot/join?startapp=ref-4tmfJJPJC4WotmczK1tECF) — Time waits for no man 💎⏳
+- [MOW_TON](https://t.me/MOW_TON_BOT) — 🚀 Introducing MOW: On-Chain Barrage Shooting Adventure!
+- [Arena Games](https://t.me/Arenavsbot) — Play, Have Fun and Earn with our Froggy.
+- [Chickizen](https://t.me/chickizenbot) — Merge chickens, collect NFTs, and conquer space in Chickizen - the cosmic idle game on Telegram!
+- [String Arc8 Retro](https://t.me/Stringarc8Retrobot) — Play String Arc8 Retro and Win String Tokens
+- [ISEKAI Adventure](https://t.me/Tonisekaibot) — ISEKAI Adventure is an adventure game that combines strategy and survival.
+- [Nail Mini Game](https://t.me/unnailbot) — A fun and engaging screw-tightening mini-game that realistically recreates the scene of screwing.
+- [KiTon](https://t.me/KITONGAME_BOT) — KITON is a tap to earn mini-game on TON, come and join the cat kingdom adventure!
+- [Nobby.Game](https://t.me/nobbygameru) — CCG game in Telegram with crypto, spells, heroes, and real rewards
+- [Get Games](https://t.me/getgamestgbot) — A platform where you can earn $GG tokens in games like CryptoPump Battle.
+- [Panda Frenzy](https://t.me/pandafrenzybot) — Tap, meditate, and earn! Collect bamboo and unlock exclusive rewards. 🐼🌿
+- [TonStars](https://t.me/tonstarsflipbot?start=6775719737) — Be a star in tonwood
+- [BlueChain](https://t.me/bluechainbot) — BlueChain, a Tap-to-Earn app on the TON Blockchain
+- [TON Play](https://tonplay.io) — The kit to launch your game on Telegram
+- [VWS Games](https://t.me/AirdropVWSbot) — VWS Games Chats win 17 💎types  tokens Ton blockchain
+- [Chain Bunny Inc.](https://t.me/ChainBunny) — Play-to-earn app with affiliate program and token airdrop
+- [Digitcoin](https://t.me/digitcoin_community) — The real-world utility of tokens.
+- [BAKS TON ](https://t.me/baksgamebot) — $BAKS - Battles Platform Farming Phase
+- [Cryston](https://t.me/crystonappbot) — Become a Mining Tycoon
+- [Tonlanders | GameFi](https://t.me/tonlanders) — Play to Earn in Metaverse on TON
+- [GobblUp- Feed & Earn](https://t.me/gobblupbot/game) — Ascend the ranks of your food empire and work your way to the top of the $GOBBL Airdrop.
+- [Punk City](https://t.me/PunkCity2094bot) — TON game
+- [Mine POO](https://t.me/minepoobot) — POO meme token mining applications
+- [Fight Brawl](https://t.me/fightbrawlbot) — Best street fighter game
+- [Winko Game Token](https://t.me/winkotokengamebot) — Clicker game where you earn WINKO by tapping the screen and completing tasks
+- [TG Games](https://t.me/TG_Gamesbot) — TG Games is a gaming rewards & redeem platform built in the TON ecosystem.
+- [Bit Billionaire](https://t.me/bitbillionairebot) — Welcome to Bit Billionaire!  Upgrade your GPUs and manage resources to build a mining empire!
+- [Corn Battles](https://t.me/corn) — CORN BATTLES is a new, exciting battler game with charismatic characters: the corn cobs!
+- [NokNok](https://t.me/tonnokbot/game?startapp=tonapp) — NokNok is a whack-a-mole game that leverages the concept of hammer skins as its core meme element
+- [Almost A Hero](https://t.me/Herotonbot/Almostahero) — This is one of the most addicting RPG clicker games you will find out there today.
+- [Probablycoin](https://t.me/Probablycoinbot) — 🎉 Welcome to Probablycoin! 🎉   👆Tap the coin and watch your balance soar!
+- [Catia Eduverse](https://t.me/catia_gamebot/app?startapp=ton_app) — 🌙 Learn, Have Fun, and Earn!
+- [Racoin APP](https://t.me/racoin_community) — Racoin is a Play to earn Game on Ton Blockchain.
+- [ERAX 🦖](https://t.me/the_eraxbot) — Play ERAX now without clicking. You can earn coins by completing tasks and your daily activities
+- [DoraTon](https://t.me/doratonsbot) — Play and Earn. Journey with Captain Cat. Play to Airdrop Experience.
+- [Blockrain](https://t.me/Blockrainbot) — Next generation cryptocurrency technology network.
+- [Bank Miner WBT](https://t.me/MinerWBTbot) — Bank Miner WBT is a mobile app that allows you to mine $WBT tokens right on your phone!
+- [X Bull](https://t.me/X_Bull1) — 🚀 X Bull Meme Coin is coming! Join the hype and earn with MiniApp.
+- [T88 mini app](https://t.me/T88_WTF_BOT) — If you can, get out of the matrix.
+- [TONvsTAKE](https://t.me/TonTake) — Browser P2P strategy
+- [GAMEE](https://t.me/gamee) — Earn $TON in battles against your friends on Telegram’s #1 gaming platform
+- [EyeTon](https://t.me/eyetonbot) — EYETONBOT - $EYETON: Tap characters to earn TON & $EYETON. Enjoy Illuminati fun, tasks, and rewards!
+- [Doge Games](https://t.me/TONDOGECHAT) — Cabot.pro — For games in your channel or you can play in any channel connected to Cabot
+- [ChallenQuiz](https://t.me/challenquizbot) — Challenge yourself, connect with others, earn CQ tokens, and collect awesome Soulbound NFTs.
+- [Doonz Squad](https://t.me/Doonz_Squad) — Farm Coins for Free. Upgrade your "Doonz" to Earn More.
+- [LifeBlooD ](https://lifeblood.ru/) — Benefit yourself and others
+- [AI Buddy](https://t.me/ai_buddy_gamebot) — Discover the first ever AI RPG game in the TON eco system. Lets Chat and Connect!
+- [Liberty Dog](https://t.me/lido_appbot) — Liberty Dog mini app is building a community called Digital Freedom.
+- [AFKPepe Bot](https://t.me/afkpepebot) — Dive into Telegram's first social game with $AFK token integration - where being AFK means Winning!
+- [EPIC BATTLE](https://t.me/EpicBattleGamebot) — Play - Mining - Earn Rewards
+- [Mirrion Beyond ](https://t.me/MirrionBeyondbot) — Come in, play, upgrade your characters and earn money💸  Created by @MirrionBeyond team🥷
+- [OpenPad](https://t.me/openpadbot) — The 1st AI Decentralized Launchpad Building a smarter decentralized future with AI Web3 Launchpad
+- [Other Worlds TON](https://t.me/OtherWorldsTONbot) — "Other Worlds" - A blockchain fantasy game of battles, clans, and NFT upgrades.
+- [Qubix Arena](https://t.me/qubixarena) — Fast-paced Arena Battles
+- [Slime Smith](http://t.me/slimeminigames) — Forge, Dominate the Leaderboard, and Win — Forge Your Way to Airdrops!
+- [Star Industry](https://t.me/starindustry_channel) — Earn TON weekly by playing an economic simulator.
+- [YuliGo](https://t.me/yuligo_chat) — #YuliGO IRL onchain gamified commerce built on #TON 🍦
+- [CombatX](https://t.me/combat_xbot) — CombatX is a fun way to earn real money.
+- [BillyBob](https://t.me/BillyBobRobot/GAME?startapp=7152367800) — ⛏👾 BillyBob is waiting for you with $BOB💎💰 collect it right now! TON Cryptominer
+- [Mines Ton Giveaways](https://t.me/mines_ton) — Earn tickets by completing simple tasks and participate in the Mines Ton giveaway.
+- [Ton Double](https://tondouble.xyz) — Ton Double is a smart contract that allows users to play Double or Nothing with $TON. Odds are 50/50
+- [TONbet Sportsbook](https://tonbet.bet) — Community bankrolled sportsbook
+- [Ropsto](https://t.me/ropsto) — Play Rock Paper Scissors, Have fun & Earn!
+- [The Old Castle Defense](https://theoldcastle.xyz/) — The Old Castle Defense - A Multiplayer NFT Strategy Game
+- [YezBet](https://yez.bet) — Betting on telegram based on blockchain. Fair audited crypto smartontracts, instant payout!
+- [@Sportsbet](https://t.me/betting) — Seamless betting experience inside Telegram, a new level of convenience. ⚽️ 🎾 🏇 ➕
+- [JuicyBet](https://t.me/YourJuicyBets) — Decentralized and permissionless betting platform available to everyone!
+- [TonCasino](https://toncasino.io/) — 3000+ Games:Slots/Live Casino/SportBet
+- [TON.FUN Lottery](https://lotto-ton.fun/) — Отправь TON и выиграй в 2 раза больше!
+- [Footballlot](https://t.me/footballlot) — Football lottery in Telegram Based on TON💎
+- [BIX Games](https://t.me/ninebixbot) — BIX Games Beta: Free Mining Begins! Play, Bet, and Earn Bix Tokens on TON Blockchain via Telegram!
+- [Kingston](https://kingston.tongram.app/) — Step into the ultimate casino adventure on Telegram!
+- [Lucky Knight](https://t.me/LuckyKnight_channel) — Kill monsters and earn INCREDIBLE treasures!
+- [TON Games](https://ton-game.com) — World leading iGaming experience
+- [Rocket Case](https://t.me/RocketCaseNews) — Telegram NFT Gifts Game
+- [VEGAS](https://t.me/Tonvegasbot) — Онлайн казино на Telegram API
+- [Cyberpunk R](https://t.me/cyberpunkrbot) — The web3 gaming for degens👾👾👾but nothing to lose.
+- [Ton Lottery](https://tonlottery.site?From=tonapp) — Guess 6 numbers out of 45 and win the jackpot! Угадай 6 чисел из 45 и выиграй джекпот!
+- [TON Fruits](https://ton-fruits.shop/game?utm_campaign=tonapp) — The open-source TON smart-contract based slot machine game
+- [ThePredictorX](https://t.me/thepredictorxcommunity) — Make free Crypto & Sports predictions and earn TON.
+- [BitcoinJet Game bot](https://bitcoinjet.ru) — С помощью ваших кораблей и героев Btcj вы добываете жетоны "BTCJ".
+- [TONJiggle](https://t.me/tonjiggle) — TON Don't Jiggle Jiggle it Folds 🤑
+- [TONOMANIA casino](https://tonomania.live/) — Слоты на TON, конкурсы, бонусы, турниры
+- [Spica Chance 🎰](https://t.me/SpicaFund) — Level Up with Spica Energy Kits, Earn Points and Join Launchpads!
+- [Gambling Bot](https://t.me/ton_games_and_more) — Бот для игры в 🎲 🎰 🎯 🎳 ⚽️ 🏀
+- [Spica 🚀](https://t.me/SpicaFund) — Level Up with Spica Energy Kits, Earn Points and Join Launchpads!
+- [JackDaw Flip](https://t.me/JackdawFlipbot) — JackDaw Flip: An innovative platform for social interaction and income. Join us now!
+- [Classic Multiplayer](https://classic.ton-game.com) — Have fun with friends
 
-## Articles
+## Finance
 
-> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages).
+- [Orexn](https://t.me/Orexnbot) — The crypto launch space platfrom — built for explorers, by the community
+- [swap.coffee ](https://t.me/swapcoffeebot) — The most effective DEX Aggregator on TON.  Smart routing and transaction splitting.
+- [COYTX](https://t.me/coytxcombot) — The first AI-based cryptocurrency exchange in the TON ecosystem: trade and stake TON today!
+- [Hash2Cash](https://t.me/hash2cashio) — Cloud mining based on RWA
+- [STON.fi](https://t.me/ston_fi) ✓ ★ — Cross-chain DEX built on TON
+- [Biconomy.com](https://t.me/Biconomycom) — Trade TON on spot and futures markets, stake via Earn with up to 30% APR, and USDT directly on TON.
+- [PizzaTon](https://t.me/pizzatonbot) — PizzaTon launchpad is here.
+- [StealthEX](https://t.me/StealthEX) — StealthEX is an instant cryptocurrency exchange for limitless cross-chain swaps.
+- [DeDust.io](https://t.me/dedust_en) ✓ ★ — AMM DEX on TON Blockchain
+- [TVERLOFT](https://t.me/tverloft) — Web3 platform backed by real estate income. Book apartments via MiniApp and connect your wallet.
+- [Peravel](https://t.me/Peravelbot) — Travel , Live , Pay & Earn on Ton!
+- [Exolix Exchange](https://t.me/exolixcom) — Non-custodial crypto exchange service since 2018. Instant сross-chain swaps with over 2700+ assets.
+- [TONCO](https://t.me/tonco_io) ✓ — The first DEX on TON with Concentrated Liquidity (CLAMM)
+- [TON Bridge](https://t.me/TONBridge_robot) — Unlimited TON Bridge for TONBANKCARD
+- [Transit Swap](https://swap.transit.finance/) — Transit Swap is a cross-chain swap platform.
+- [Tonstarter](https://tonstarter.com) ✓ — First and the best launchpad on TON
+- [TONpad](https://t.me/Tonpad_launchbot) — The Community-driven token launch protocol
+- [ChangeNOW](https://changenow.app.link/referral?link_id=25f03e976ab0ef) ✓ — Limitless Web3.0 Crypto Exchange
+- [TONBANKCARD Exchange](https://t.me/swaptoncoinbot) — Unlimited exchange from TONBANKCARD
+- [Bitpin | بیت‌پین](https://t.me/bitpin) — بیت‌پین؛ تجربه سرمایه‌گذاری نوین
+- [WebDosa](https://t.me/undrdosa) — Eternal radiance on your mind!
+- [CryptoRiviera](https://t.me/CryptoRiviera_Off) — CryptoRiviera: Your all-in-one TON platform to create, trade, stake, and earn with RIV!
+- [Blum Memepad](https://t.me/Blum/app?startapp=to_memepad) — Launch your TON memecoin under 30 seconds!
+- [ION Finance](https://t.me/IONFINANCE_OFFICIAL) — Advanced DEX for The Open Network
+- [Layerswap](https://layerswap.io) — Transfer crypto to TON from Ethereum, Solana and 30+ more networks.
+- [Cede.store](https://send.cede.store/?tokenSymbol=TON&network=ton&source=ton_foundation) — Access and transfer your assets from 10+ Centralized Exchanges, with a DeFi UX
+- [Symbiosis](https://t.me/symbiosis_announcements) — Symbiosis is a cross-chain any-to-any token bridge.
+- [Hodl Drop](https://t.me/hodldropchannel) — Giveaway and Lottery Platform
+- [TONsale](https://t.me/TonsaleAnnouncement) — A leading protocol for Token services, decentralized launchpads, and SociaFi on the TON Blockchain
+- [TONUP](https://tonup.io/) — Launchpad
+- [TonPad](https://t.me/TonPadXbot) — TMA Launchpad with promotion service.
+- [MULTIX](https://t.me/multixcryptobot) — Multix is a mass adoption SocialFi Launchpad platform on the TON blockchain
+- [Huobi](https://www.huobi.com/) ✓ — Leading Crypto Trading Platform
+- [Neocrypto](https://neocrypto.net) ✓ — Neocrypto - Buy crypto with credit card
+- [DW: Toncoin Buy&Sell](https://t.me/DW_tonbot) — Best TON exchange rate
+- [Crypto Converter](https://t.me/cryptoxconverterbot) — Converter Bot in Telegram
+- [FixedFloat](https://fixedfloat.com/) — Instant, fully automatic cryptocurrency exchange
+- [CryptoGas.shop](https://cryptogas.shop/ton?ref=37027482) — Buy TON with one click
+- [SwapSpace](https://t.me/SwapSpace) — SwapSpace is an instant cryptocurrency exchange aggregator.
+- [Crypto Shop](https://t.me/cryptoshopxbot) — Buy/Sell Toncoin in Telegram Bot
+- [Orbit Bridge](https://bridge.orbitchain.io/) — Orbit Bridge: Fast and secure way for token conversion
+- [Megaton Finance](https://megaton.fi) — No. 1 AMM DEX on TON
+- [Tonstrike](https://t.me/tonstrikeOfficial) — Synthetic trading on TON. Perpetuals, 100x leverage, no custody. Presale • Staking • Referral.
+- [Trading Signals - Eterna Feeds](https://t.me/Eterna_Signals) — Stop guessing, start winning.
+- [xDelta](https://t.me/xdelta_finance) — Swap Tokens with 0% Fee on TON
+- [dYdX ](https://dYdX.trade) — dYdX is the leading decentralized exchange for perpetual.
+- [x1000](https://t.me/x1000_en) — Trading terminal on TON
+- [Nomiswap](https://nomiswap.io/swap?outputCurrency=0x76A797A59Ba2C17726896976B7B3747BfD1d220f) — DEX
+- [Dodo](https://app.dodoex.io/?from=ton&to=USDC) — DEX
+- [Uniswap](https://app.uniswap.org/#/swap?outputcurrency=0x582d872a1b094fc48f5de31d3b73f2d9be47def1) — DEX Uniswap
+- [PancakeSwap](https://pancakeswap.finance/swap?outputcurrency=0x76a797a59ba2c17726896976b7b3747bfd1d220f) — DEX PancakeSwap
+- [DXS: Trade The World](https://t.me/dxsapp) — Trade 100s of global markets with leverage directly from self-custodial TON Wallets
+- [TON INU Launchpad](https://t.me/toninutools) — A fully on-chain jetton launchpad
+- [GAGARIN World](https://ton.gagarin.world/ru) — Платформа для инкубации проектов и запуска
+- [Onramp](https://onramp.money/main/buy/?appId=1&coinCode=ton) — Ramp up your fiat > crypto payments
+- [TON ↔ ETH](https://ton.org/bridge/) ✓ — TON - WTON exchanging bridge
+- [TON ↔ BSC](https://bridge.ton.org) ✓ — BSC exchanging bridge
+- [XP.NETWORK](https://t.me/XP_NETWORK_Ann) — Multichain NFT Bridge
+- [Changelly](https://apps.apple.com/us/app/crypto-exchange-buy-bitcoin/id1435140380) — The fastest crypto exchange operating since 2015. Exchange and buy 500+ cryptos, explore the market
+- [Exchangio](https://exchang.io) — Fastes crypto exchange service - Exchangio
+- [SwapSwop](https://swapswop.io/) — Swap any crypto with SwapSwop
+- [KuCoin](https://www.kucoin.com) — 1 out of 4 Crypto Holders Worldwide is with KuCoin
+- [AlwaysMoney Exchange](https://t.me/alwaysmoneyorg) — Fast, secure crypto swaps — 50+ assets, no account, low fees, 24/7 support
+- [Bitpapa](https://bitpapa.com) — P2P trades protected by Escrow system
+- [Bestramp](https://t.me/bestramp) — Fastest crypto exchange aggregator to buy and sell cryptocurrency worldwide.
+- [BYDFi](https://www.bydfi.com/) — An APP that you access 400+ crypto pairs
+- [Quickex](https://t.me/Quickex_en) — Quickex -  TON exchange service
+- [Bitmit](https://bitmit.co/price/TON) — Buy TON From Bitmit Iranian Exchange
+- [Azbit](https://azbit.com) — Crypto Exchange
+- [TonTake Bridge](https://TonTakeChatbot) — Bridge between @tonRocketBot, @CryptoBot,  @xJetSwapBot
+- [FinchPay](https://finchpay.io/) — Buy & Sell crypto on the fly
+- [SimpleSwap](https://simpleswap.io/?utm_source=tonapp&utm_medium=portal&utm_campaign=exchange) — An anonymous crypto exchange with no sign-up and upper limits
+- [CoinCodex](https://coincodex.com/crypto/toncoin/) — Popular crypto data aggregator
+- [Bitstorage](https://t.me/BitstorageFinanceChannel) — Experience the new era of trading. Offering a robust suite of trading options for a dynamic market.
+- [EXMO](https://exmo.me/trade/ton_usdt) — CEX EXMO
+- [Itez](https://itez.com/) — Fiat-to-cryptocurrency exchange service
+- [Bit24](https://t.me/bit24cash) — Bit24 is a Cryptocurrency Exchange.
+- [Transak](https://transak.com/) — Enable users to buy or sell crypto from your app
+- [Wallet Bot](https://t.me/wallet) ✓ — Crypto exchange
+- [Bit2Me](https://www.bit2me.com) ✓ — Spanish crypto exchange
+- [Matrixport](https://www.matrixport.com/) ✓ — A crypto investing and trading platform.
+- [Mercuryo](https://exchange.mercuryo.io/?currency=TONCOIN) ✓ — Fiat Onramp
+- [OKX](https://www.okx.com/trade-spot/ton-usdt) ✓ — CEX
+- [Starlight Mini-Game](https://t.me/Starlighterbot/starlight/) — 💫Join Starlighter bot and start mining the promising stars for unique opportunites in the future!
+- [Ton Bulk Sender](https://t.me/cointool) — Ton Token MultiSender
+- [Excoino](https://t.me/excoino) — A cryptocurrency exchange and trading platform.
+- [wallex | والکس](https://t.me/WallexChange) — بازار خرید و فروش ارزهای دیجیتال
+- [TONLAND | تونلند](https://t.me/tonlandchannel) — Persian Exchange
+- [BIT](https://www.bit.com) ✓ — CEX
+- [Dualcoin](https://dualcoin.io/en) — Beneficial service for cryptocurrency exchanges
+- [LBank Exchange](https://www.lbank.com/trade/ton_usdt/) — The World Class Digital Asset Exchange
+- [Explace](https://t.me/Explaceio) — Explace - simple, secure exchange platform
+- [BitcoinVN](https://bitcoinvn.io) — Instant Bitcoin & Cryptocurrency Exchange in Vietnam
+- [EXTON](https://t.me/EXTON_SWAP_BOT) — Making TON Easier
+- [NovaDax](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) — Invista em criptomoedas na NovaDAX
+- [CoinEx](https://www.coinex.com/) — The Global Cryptocurrency Exchange
+- [eCrypto](https://vk.com/ecrypto_wallet) — The first crypto wallet on the VKontakte platform for buying TON and more
+- [CrystalTrade](https://t.me/crystaltradebot) — CrystalTrade is a modern exchange service for those who value security and speed.
+- [Alchemy Pay](https://alchemypay.org/) — Bridging the fiat and crypto global economies
+- [DOGWIFHOOD](https://t.me/dogwifhoodANN) — Pavel Durov's dog. Wif a hood.
+- [Swipelux](https://swipelux.com/?utm_source=tonapp&utm_medium=referral&utm_campaign=inbound) — Swipelux Offers Streamlined Fiat-to-Crypto Infrastructure with Visa & Mastercard Purchases
+- [gate.io](https://www.gate.io/trade/ton_usdt) — Exchange
+- [DigiFinex](https://www.digifinex.com) — Global  Cryptocurrency Exchange
+- [Bitget](https://www.bitget.com/ru/) — crypto exchange platform
+- [اوکی اکسچنج](https://t.me/Okexir) — Buy Ton From Iranian Exchange
+- [MEXC CEX](https://www.mexc.com/) — MEXC Crypto Exchange
+- [MoonPay](https://www.moonpay.com/) — We believe buying crypto shouldn't be so hard
 
-- [Step-by-Step guide to build a Telegram Chatbot with a simple WebApp UI using Python](https://medium.com/@calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f)
-- [Telegram Mini App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
-- [Creation of Telegram Mini Apps and interaction with them in Telegram bots](https://prog.world/creation-of-telegram-web-apps-and-interaction-with-them-in-telegram-bots)
+## Tools
 
-## Videos
+- [UpFin Trading Bot](https://t.me/UpFinChannel) — Your trading AI-assistant — up to 25% weekly profit 💰
+- [LFG AI Market](https://t.me/ruhunt) — The first and only marketplace of turnkey AI solutions in Telegram. Pay in TON.
+- [TonTradingBot](https://t.me/tontrade) — 🤖 The Premier Sniper and Trading Bot on Ton Blockchain 🚀  Supports Multiple Languages!
+- [Chainsim](https://t.me/chainsim_chat) — Anonymous NFT numbers compatible with every app (SDK alive). Earn from referrals, mint rare digits!
+- [Tonviewer](https://tonviewer.com) ✓ ★ — TonViewer is a feature-rich blockchain explorer specifically designed for TON
+- [CertiK](https://t.me/CertiKCommunity) — Web3's Leading Smart Contract Auditor
+- [Hacken](https://t.me/kostiantyn_hacken) — Trusted Blockchain Security Auditor
+- [HackenProof](https://t.me/hackenproof_chat) — Web3 Bug Bounty and Crowdsourced Audit Platform
+- [TON Click Bot](https://t.me/TonClickRobot) — Earn TON by doing simple tasks like joining chats, messaging bots and visiting websites
+- [TonMobile eSIM](https://t.me/mobile/app?startapp=tonapp) ★ — Travel Internet
+- [SpinMi](https://t.me/spinminews) — Create, Render and Receive your Telegram Animated Coin Emoji in private Chat
+- [TON Testnet Faucet](https://ton.run/#/faucet) — Get TON for your TestNet wallet!
+- [NNMining](https://t.me/NNMining_BOT) — #1 Cloud mining in telegram
+- [BehLand - Web3 L2E](https://t.me/BehLand_gp) — A Web3 learning ecosystem power by POHW where studying, analyzing and teaching turn into real reward
+- [TON & TG Dev Tools](https://t.me/MJK_Dev_BOT) — A toolkit for building on TON and Telegram
+- [TON Verifier](https://verifier.ton.org) — TON Contract Verifier Beta — A tool to verify your contracts on the Ton blockchain
+- [CryptoViewer](https://t.me/cryptoviewerton) — CryptoViewer tracks prices and analyzes addresses on the TON blockchain.
+- [Config44](https://config44.com) — Precision-driven smart contract auditors
+- [PositiveWeb3](https://t.me/PositiveWeb3) — A international company conducting security audits of Web3 projects (not only contracts)
+- [SnapSIM](https://t.me/snapsimbot) — Global SIM rentals for receiving any SMS instantly.
+- [Numbers 888](https://t.me/nums888bot/app) — Telegram Anonymous Numbers Price Chart and Historical Data.
+- [Jetton Vote](https://t.me/jettonvotebot/start) — The jetton.vote platform is designed to popularize created tokens on the TON blockchain.
+- [SOREN](https://t.me/SORENCOMMUNITY) — SOREN is a Web3 app on TON blending street fashion with gaming and rewarding users in $SOR.
+- [TractionEye](https://t.me/TractionEyebot) — Earn with top trader's deals without special skills.
+- [TON Fonates](https://t.me/fonatesbot) — Send and accept donations on streams in TON
+- [WebDeployer](https://ratingers.pythonanywhere.com/deployer/) — Deploy contracts with QR codes easily
+- [TON NoCode SDK](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) — Build Apps on TON Blockchain without code
+- [NFTScan](https://ton.nftscan.com/) — The NFT Explorer of TON
+- [Joit-Ton StickerPack](https://t.me/joit_io) — Dynamic stickers in Telegram with auto-updating data on memecoins and NFTs on the TON blockchain.
+- [Workix](https://t.me/workix_tbot) — Web3 Freelance – start a new project now
+- [TONfile](https://tonfile.org) — Monetize your files with TON cryptocurrency
+- [Nowarp](https://nowarp.io) — Smart contract audits focused on Tact
+- [Solidity auditor](https://t.me/LegalKornet) — AI-powered smart contract audit with legal security classification
+- [Decurity](https://www.decurity.io/) — Tier-1 security audits and real-time threat detection
+- [Nudifier.AI](https://t.me/nudifier_ai_4bot) — Powerful AI Telegram bot based on Stable Diffusion
+- [TON Testnet Faucet](https://t.me/tonxapi) — Get FREE TON Testnet Tokens with minimal authentication. Refill every 12 hours.
+- [Husky AI](https://t.me/huskysearchbot) — The 1st AI Search Engine that indexes Web + Uncensored Content on Telegram Channels.
+- [Tonmarketcap](https://t.me/tonmarketcap_channel) — Discover TON ecosystem 💎
+- [Inferno Trade](https://t.me/infernotradebot) — Quickness. Quality. Reliability. Functionality.
+- [TON Byte](https://tonbyte.com) — Cloud based on TON Storage
+- [TBC - Client](https://t.me/marketcaprobot) — TBC Client — Cryptocurrency Markets from TONBANKCARD
+- [Snorter Bot](https://bs_6847cd65.medexa.care) — Snorter Bot is the apex degen’s secret weapon — a full-suite crypto trading bot
+- [Verify](https://t.me/verify_eng) — Verify is a platform that addresses key issues in blockchain project such as trust and security
+- [ClickHub](https://t.me/clickhubbot) — Pay per click & Earn per click
+- [Chainbase Network](https://chainbase.com) — A decentralized omnichain data network.
+- [TON Audit Studio](https://t.me/feellikeroman) — AI-powered security auditing platform for TON smart contracts. Supports FunC, Tact & Tolk.
+- [Directual no-code](https://readme.directual.com/plugins/using-plugins/blockchain-web3/ton-the-open-network) — Build web apps and TMA integrated with TON, all without coding
+- [TON API](http://tonapi.io) ✓ — TON’s blockchain explorer
+- [Tonscan.com](https://tonscan.com/) — Tonscan.com is an explorer for the TON Blockchain - for developers, by developers!
+- [OKX Explorer](https://www.okx.com/web3/explorer) — OKX Explorer is a powerful and intuitive tool providing comprehensive and detailed insights into TON
+- [Fragment Neuro Bot](https://t.me/fragmentneurobot) — Your AI-powered @username Generator
+- [Tenere Explorer](https://apps.apple.com/ru/app/tenere-explorer/id1671820920) — Data source about cryptocurrency and wallets in the TON network. Application for Apple ios
+- [SCANNER MESSAGE](https://t.me/arbitragescanner_eng) — Your bot for monitoring messages in Telegram chats and Twitter .
+- [TDEX AI](https://t.me/tdextradebot) — Practice trade with risk-free money. Use AI screener to find best opportunities and so much more
+- [Dotonate](https://t.me/dotonatebot) — Accept and make donations in TON ease
+- [Tonpay](https://business.thetonpay.app) — Tonpay — platform of payment solutions for businesses
+- [Auto Orbit](https://t.me/autoorbitbot) — The #1 fully-automated advertising service on Telegram!
+- [TonGo](https://t.me/tongonews) — Access decentralized .ton websites directly in your browser
+- [TONDb](https://t.me/tondbapp) — Explore Project Ratings, Read Reviews, and Share Your Thoughts with TONDb!
+- [3xpl ](https://3xpl.com/ton) — open-source blockchain explorer
+- [tonobserver](https://tonobserver.com/) — TON explorer using indexing
+- [CoinCrackerBot](https://t.me/coincrackerbot) — Set up a price tracker for TON and your favorite jettons.
+- [Dton](https://dton.io) — TON Explorer and API
+- [DeFillama](https://defillama.com/chain/TON) — Popular TVL aggregator for DeFi DeFillama is now tracking TON
+- [Tonscan](https://tonscan.org) ✓ ★ — Fast and reliable explorer
+- [TON NFT EXPLORER](https://explorer.tonnft.tools) — Explore TON based NFT collections
+- [Whales Explorer](https://tonwhales.com/explorer) ✓ — Nerdy style explorer
+- [TON Tracker](https://t.me/tontracker_news) — Track your TON portfolio with real-time data and analytics.
+- [TonsOfFriends](https://t.me/toftechbot) — Opt-In telegram directory connecting people and communities. Buy and Sell keys for groups.
+- [TON Box](https://storage-two.vercel.app/) — Storage provider with user friendly interface and encryption files.
+- [Spide](https://t.me/spide_robot) — Cloud scanning a website for vulns with TON
+- [Adradar](https://t.me/adradar_xyz) — Turn your Mini App into a revenue machine with Adradar
+- [Fanzee](https://app.fanz.ee/staking) — the TON ecosystem’s first-ever decentralized Jetton staking  program
+- [POLYTEND (Floor)](https://t.me/anonymous_numbers_floor) — The bot tracks the floor of the NFT collection of Anonymous Telegram numbers.
+- [POLYTEND (DOM)](https://t.me/anonymous_numbers_dom) — The bot tracks the number of applications and prices for selling NFTs, floor and the current rate.
+- [TON INU Tracker](https://t.me/toninu_trackerbot) — Free telegram wallet tracker for Ton Blockchain.
+- [Tonnel Network](https://tonnel.network) — #1 Zero-Knowledge protocol on TON, Privacy for TON, JETTON, NFTs
+- [Crypton Deploys](https://t.me/Crypton_Deploys) — Instant notifications about new token / LP deploys / LP burns on TON blockchain
+- [Onmeta](https://t.me/onmetatg) — Quickest On & Off Ramp Solution using UPI
+- [moonpacket](https://t.me/moonpacketchat) — The programmable airdrop tool. Distribute tokens precisely to high-value users via verification task
+- [Crypton Super Bot](https://t.me/CryptonSuperbot?start=tonapp) — Trade any TON Blockchain tokens quickly and snipe liquidity with the efficient Crypton Super Bot
+- [AskTon](https://t.me/asktonbot) — Earn TON coins by answering questions from your audience!
+- [Payhook](https://payhook.org) — 0% fee crypto-paymens system
+- [TOKEN INSIDE](https://t.me/token_inside) — Сообщаем о новых токенах и изменениях существующих.
+- [POLYTEND (Auction)](https://t.me/anonymous_numbers_auction) — The bot tracks auctions of Anonymous Telegram Numbers NFT collections.
+- [LaFTon Bot](https://t.me/LaFTon) — Instant purchase and send Stars, Premium and top up your TON balance in Telegram
+- [TonRush Bot](https://t.me/tonrushbot) — TonRush Token Official Bot
+- [indicaton](https://indicaton.io/?utm_source=ton_app) — The automatic TON NFT/Jettons analytics
+- [RabbitGo](https://rabbitgo.io/) — Community Management Tools bridge Telegram and TON
+- [Cryptomus](https://cryptomus.com/) — Cryptomus Crypto Payment Gateway
+- [The Open Disk](https://theopendisk.org) — Sell your files with TON
+- [AdBuy](https://t.me/advertisementbot) — Ad Platform
+- [TON Notify Bot](https://t.me/tonnotifybot) — Track transactions
+- [Tonometer](https://t.me/tonometerbot) — The current rate of Toncoin
+- [Affluent](https://t.me/affluentappbot) — Trustless Asset Management
+- [Ton Daddy](http://tondaddy.com/) — data aggregator
+- [Fragment Checker Bot](https://t.me/fragmentcheckerbot) — AI username generator, statistics of auctions
+- [CoinStats](https://coinstats.app/) — CoinStats is a portfolio manager with 1M users. Supports 300+ wallets/exchanges incl. TON Wallet
+- [TON burnt](https://t.me/tonburnt) — TON burning log
+- [DeCoupons](https://t.me/delabtonbot/dewa) — Сoupon creation platform
+- [BOO SNIPE BOT](https://t.me/snipeprobot) — 🚀 Your Gateway to Toncoin DeFi : A Sniper Telegram Bot for TON
+- [DeDonate](https://t.me/delabtonbot/donate) — Crypto service for fundraiser donations
+- [Ton Meme Bot](https://t.me/memefun_tradingbot) — A Telegram trading bot on the TON blockchain
+- [Tenere](https://teneretoken.com) — Tenere (Tnr) — Audiatur et altera pars. Universal Altcoin
+- [DropGift](https://t.me/dropgiftbot) — Instantly delight your loved ones with crypto gifts.
+- [vaniton](https://github.com/AntonMeep/vaniton) — Wallet address generating library for TON
+- [Wisdomise AI Trader](https://t.me/OfficialWisdomiseApp) — The World’s 1st Autonomous Intelligent (AI) Trading Platform.
+- [Jetton Whale Swaps](https://t.me/ddwhale) — A bot that tracks whale trades at DeDust.io DEX
+- [QuTON Cash (QTC)](https://t.me/qutoncashchannel) — Peer-to-peer electronic cash alternative to TON
+- [CoinRobot](https://t.me/coinrobot) — Top Cryptocurrencies rates
+- [NOW Tracker](https://nowtracker.app/) — portfolio tracker by ChangeNOW
+- [Ton Rate](https://t.me/tonratealert) — TON/USD Rate
+- [Rift](https://rift.skyring.io) — Instrument for Python developers
+- [IntelliJ Idea plugin](https://plugins.jetbrains.com/plugin/23382-ton) — TON Development plugin for IntelliJ Platform. Includes support for Fift and FunC languages
+- [TONX API](https://tonxapi.com/) — Ultimate TON Development Platform - TON APIs, SDKs, & RPC
+- [Telegram ShopsRobot](https://t.me/ShopsRobot) — ShopsRobot — best way to sell digital goods
+- [Nimbus API](https://getnimbus.io) — Nimbus API for portfolio tracking
+- [Tonana](https://github.com/tonanadao) — Layer 0 Infrastructural solution
+- [Beosin Security](https://t.me/beosin) — Smart Contract Audit
+- [Hexens](https://hexens.io) — NOVEL APPROACH TO CYBERSECURITY
+- [ScaleBit](https://www.scalebit.xyz) — Security Solutions for Mass Adoption of Web3
+- [QuillAudits](https://t.me/quillaudits_official) — Web3 Security Leader
+- [Vidma](https://t.me/vidmasecurity) — Vidma is a Leader in blockchain security audit
+- [Softstack](https://softstack.io) — Your Web3 Service Partner
+- [Watcher](https://t.me/watcher_robot) — Best assistant for tracking wallet activity on the TON network!  #tracker #trade #jetton
+- [Cryptanil](https://www.cryptanil.com) — Get ready for seamless crypto payments
+- [Ton Tracker](https://t.me/tonscanerbot) — The fastest TON wallet sniper bot with smart filter
+- [Jetton Arbitrage](https://t.me/JettonArbitrage) — Jetton Arbitrage deals
+- [TON Bulksender](https://t.me/bulksender) — Bulksend TON or Jettons to thousands of recipients in seconds efficiently
+- [TON INU Locker](https://t.me/toninutools) — Lock liquidity pool and jettons for a designated period.
+- [DeFi Manager](https://www.defimanager.io/) — All-in-one solution for TON Chain DeFi investment
+- [TON Price Converter ](https://coinrecast.com/) — Convert Toncoin prices instantly
+- [Sonet](https://sonet.one) — Middleware Bridging Web3 Across Telegram & All Web2 Socials
+- [Crazy Llama Bot](https://crazyllama.farm) — Telegram bot that shows main info about the TON blockchain and notifies about your transactions.
+- [Esprito Protocol](https://t.me/espritobot) — Esprito Protocol provides additional security for TON, subscribe to favourite apps and get updates.
+- [SlowMist](https://slowmist.com) — Blockchain Ecosystem Security
+- [Port3](https://twitter.com/Port3Network) — One-stop platform to create, utilize and evolve your Web3 identity
+- [Orbs](https://www.orbs.com) — decentralized public blockchain infrastructure provider
+- [PayCrypto.Global](https://paycrypto.global) — PayCrypto.Global — P2P crypto acquiring
+- [Toncoin Converter](https://t.me/toncoinconverterbot) — Telegram Bot Converter
+- [Fragment @username](https://t.me/fragmentgeneratorbot) — Generator @username in Telegram Bot
+- [Minter](https://minter.ton.org) — Jetton Deployer
+- [Xtontracker](https://xtontracker.com) — Event tracker for TON blockchain
+- [TON.SKI Access](https://ton.ski/access/) — Get access to the private TON network
+- [Mooli ](https://ton.mooli.app/) — customizable crypto asset tracker
+- [TON中文索引](https://t.me/toncnbot) — 找到您感兴趣的频道和群组
+- [TON7DAO](https://t.me/ton7dao) — Ton7DAO is a decentralized media hub serving for Web3.0, building on Ton.
+- [Oneclicksender](https://t.me/OneClickSender) — Jetton airdrop multisend tool
+- [VWS Utilities](https://t.me/MiningChatbot) — VirtualsWorlds is a SocialFi + GameFi VWS Payload 💎 Mining  Token  TON\BNB Bridge
+- [re:doubt](https://www.redoubt.online/) — Real-time security & operational monitoring
 
-- [Telegram Mini Apps: tips and hacks | Arthur Stambultsyan](https://www.youtube.com/watch?v=amvZy9hzAic&t=2476)
+## NFT
 
-## UI Kits
+- [Pixel Market](https://t.me/pixelmarket_support) — Trade pixels, collect NFTs, and discover unique digital treasures.
+- [TON Diamonds](https://ton.diamonds) ✓ ★ — Marketplace for digital artists and high-quality collections. The first NFT on TON.
+- [Telegram Usernames](https://fragment.com) ✓ — Buy and Sell Usernames
+- [Aqua Genesis NFTs](https://aquaprotocol.xyz/nft?utm_source=tonapp&utm_medium=nft) ✓ — Aqua Protocol's Close Community and Governance for owners
+- [Helmets](https://t.me/helmetsbot/start) — Unleash Your Inner Hero!
+- [Getgems.io](https://getgems.io) ✓ ★ — The Home of NFT on The Open Network
+- [Telegram Numbers](https://fragment.com/numbers) ✓ — Buy and Sell Anonymous Numbers
+- [Disintar.io](https://disintar.io/) ✓ — Virtual space for NFT
+- [Animals Cyberpunk](https://t.me/fairytaleai) — Syndicate Animals Cyberpunk
+- [GoGift](https://t.me/GoGift_announcements) — Open exclusive cases on GoGift and discover the best NFT gifts on Telegram!
+- [TON Domains](https://dns.ton.org/) ✓ — Зарегистрируйте короткие читаемые имена для кошельков
+- [NFT Scanner](https://t.me/Arbitragescanner_official) — Scanner for tracking NFT collections
+- [Hello TON NFT](https://t.me/hello_nft) — Создаём уникальных аниме девочек с нуля
+- [TON Punks](https://tonpunks.org/) ✓ — Legendary Punks on Legendary Blockchain
+- [TOTKIT](https://t.me/totkitbot) — Statistics, analysis and reviews of NFT collections on TON
+- [StickerFace](http://stickerface.io/) — NFT wearables for StickerFace avatars
+- [LlamasInPixelHarmony](https://t.me/LlamasInPixelHarmony) — TON Llamas NFT
+- [Ton Raffles](https://tonraffles.org) — Participate in the best NFT raffles
+- [Market Playmuse](https://t.me/playmuse) — Playmuse is a media NFT marketplace.
+- [DotTON](https://t.me/dottonbot) — Our platform provides a user-friendly interface to manage all your .ton domaons & subdomains.
+- [NFT ONE](https://nft-one.art/) — NFT trading for everyone. So simple.
+- [BitcoinJet](https://bitcoinjet.ru) — вы добываеты
+- [kingyTON NFT](https://ton.org.in) — 315 items on significant events of the TON project
+- [NFT Drop Calendar](https://t.me/tonnftdropbot) — Discover upcoming NFT-collections
+- [TON DOGE COIN & NFT](https://tondoge.com/) — 5010 unique NFT with coins airdrop
+- [TON Space Vibes](https://t.me/TONSpaceVibes) — NFT astronauts
+- [OCTOPUS BOYZ](https://ton.diamonds/collection/octopusboyz?tab=items) ✓ — A collection of 777 unique animated NFTs
+- [Annihilation](https://ton.diamonds/collection/annihilation?tab=items) ✓ — First NFT collection by Ellen Sheidlin
+- [Whales Club](https://getgems.io/collection/whales) ✓ — Collection limited to 10000 utility-enabled NFTs
+- [TEIKO](https://teiko.me/) — Powered by TON Blockchain
+- [Rich Cats NFT](https://t.me/RichCatsNFT) — Первые в мире кастомизируемые NFT
+- [TonRock](https://getgems.io/collection/EQA0jEn-tR0_iU1vKLaOnmFaHTsT3w69pQ0WOp8eFllDCn3E) — The first on-chain rock was also created in the TON ecosystem
+- [Hello Novia](https://t.me/hello_novia) — The best anime hand-drawn generative collection
+- [Ton INU $TINU NFT](https://toninu.tech/) — Dive into $TINU, the NFT collection that's rocking the TON blockchain and the Inu dog vibe.
+- [Solarbirds](https://t.me/Solarbirds) — Cool bird for the cool holder
+- [TON Goblins](https://getgems.io/collection/EQDId39SNQ6HyClTaZRCfanKJ4PdVy5pyY2BwZmubHdSWlmT) — 300 unique pixel goblins in the unique blockchain.
+- [Tongochi](https://t.me/tongochi_ru) — MMORPG P2E based on Telegram Chat Bot
+- [JogjaTON](https://t.me/jogjaton) — The first jetton born from Indonesia https://JogjaTON.org
+- [3.14XL (Pixel)](https://pi.oberton.io/) — NFT Edition creation tool
+- [The Saudis TON](https://t.me/thesaudis) — Saudis are here to save TON
+- [ ПOSTNEIRONIA](https://t.me/postneironia) — >>>?+===:==::::::=>>+==:
+- [TONSYLVANIA](https://t.me/TONSYLVANIA) — WELCOME TO TONSYLVANIA
+- [MintTON](https://t.me/mintton) — MintTON — владей, играй, зарабатывай
+- [Cyberpunk World NFT](https://getgems.io/collection/EQBG35T0OW0qbKH6BZBy7fGPGBXtdlPEcld_VoXhW-SXLr39) — One of the most future large collections of NFT in cyberpunk style based on TON
+- [Ton Fish Box](https://t.me/Tonsifisifhbot?start=2123299920) — TON Fish is Telegram's first social meme token.
+- [Art Incubator Coins](https://getgems.io/collection/EQDB6DRfTh8zN-5MzmS9R6U5x44T2yESwuX-5ACXUAx4fMf9) — Craft your very own BEETON COIN, cast in gleaming gold, that showers its owner with monthly rewards
+- [TON Fingerprints](https://nft.mir.one/fingerprints) — Unique digital identifier on TON
+- [Cat Mafia NFT](https://getgems.io/collection/EQBUhVMKeO5YZ4I151B1DVNbsimI_VWDA_eo7hpw4ITPvUbo) — Уникальная коллекция NFT Cat Mafia, найди себе мафиози по вкусу
+- [TonTake NFT](https://http://t.me/TonTakeChatbot) — A friendly, charitable and entertainment company
+- [Cossacks NFT](https://t.me/cossacksnft) — Cossacks NFT is the iconic collection of avatars showing bravery and boldness
+- [TON Мебель](https://t.me/ton_furniture) — Unique designer furniture
+- [Web3TON NFT](https://web3ton.pro) — Web3TON NFT for future TON sites system
+- [Ton Cock Fights](https://t.me/TonCocks) — The first fighting-game based on nft
+- [Wizzard Cats](https://getgems.io/collection/EQAyn3CpHxHdjVy_BQWzAy7QxbYX5hu8uPjVgDCrPrVNbdum) — The “Wizard Cats” collection by @artmaster
+- [Humans](https://getgems.io/collection/EQDgUeotvXbB1_YEIhrYvYHj8jO9rY6ud7uIW-TBTQIP2odD) — Уникальная, лимитированная коллекция NFT аватаров на базе TON, выбери свой аватар!
+- [Montessori School](https://montenft.com) — First NFT serial
+- [Cats in a parallel](https://getgems.io/collection/EQCJEMMuZIKwgxpnShxAykSSXqn9Y788ld6mIC7w9EqRayoS) — 0% royalty. These unusual cats perfectly show us the life of cats somewhere in a parallel universe
+- [Frizie Frona Arts](https://t.me/ton_nft0) — TON NFT Коллекция работ от автора Frizie Frona
+- [Meridian](https://getgems.io/collection/EQAVGhk_3rUA3ypZAZ1SkVGZIaDt7UdvwA4jsSGRKRo-MRDN) — Meridian is the first fully on-chain collection
+- [MONAKI](https://monaki.life) — Collection of beautiful NFT's.
+- [Knuckles TON](https://getgems.io/knuckleston) — Knuckles TON is a meme NFT collection of Ugandan Knuckles.
+- [Angga Code](https://t.me/anggacodebot) — Visit https://angga.me
+- [Tenere Wanderlust](https://teneretoken.com) — Tenere Wanderlust is a limited edition collection of 365 NFT
+- [Not Doge](https://getgems.io/collection/EQAOQFjv7uuyChgfCQnntF-TAIkBlvx9lbfhShvZkxG0Ht6Y#activity) — Epic NFT collection consisting of 400 randomly generated Doge.
+- [TON Diamonds NFT](https://ton.diamonds) ✓ — First NFT on TON with privileges for holders
+- [BULL RUN](https://t.me/bullrunton) — BULL RUN
+- [TONDONS](https://tondons.com) — A unique multifunctional NFT collection of TONDONS.
+- [Tenere Slopy](https://slopy.io) — Пиксельная NFT коллекция Slopy с розыгрышем 12000 TON
+- [SPACEDISCOSHEEP](https://spacedisco.world) — SPACEDISCOSHEEP is an NFT collection of 888 hand drawn sheep, inspired by artwork of the same name
+- [MINTODINOS](https://t.me/mintodinos) — 1 NFT уже приносит пассивный доход в $MINTO в зависимости от TIER.
+- [Rabbits TON ](https://rabbits-ton.ru/) — Rabbits TON ,Traveling on Getgems and looking for new friends!
+- [🪐 ASTROPUNK](https://t.me/TONastroworld) — A beautiful and unusual collection of astro-monkeys on GetGems.
+- [Mining NFT](https://virtualsworlds.online) — Mining NFT https://getgems.io/virtualsworlds Mining VWS MVP Tokens https://t.me/MagicNFTcollections
+- [BRAD](https://t.me/brad_nft_ton) — nft-brad
+- [Luna](https://t.me/flashkroft69) — Luna NFT | by FlashKroft
+- [White Rabbit TON](https://t.me/WhiteRabbitTON) — NFT collectoin White Rabbit is $TON
+- [Dangerous Chickens](https://dc-ton.com/) — A unique NFT collection of Chickens!
+- [Lost Dogs](https://t.me/lostdogscoeng) — NFT collection on TON
+- [TonCells](https://toncells.org) — Поле с изменяемыми клеточками в виде NFT
+- [IzbaMulets](https://t.me/izbamulets) — ИЗБУШКА про искусство. Всем любви
+- [TON AVATARS](https://tonavatars.to/) — NFTs with physical and digital utilities
+- [Crazy Llama Farm NFT](https://crazyllama.farm) — A crazy NFT project. P2E game will come
+- [No Royalty @NFTRobot](https://t.me/NFTRobot) — NO Royalty | NO Market Fee | Duty-Free Take Full Profits from selling  NFT from any Collections!
+- [NFT Keeper](https://t.me/nftkeeperbot) — Создание собственных ботов для проверки покупок NFT и управление доступом в закрытый канал или чат
+- [NFT TONificaror](https://t.me/marketapp) — NFT Marketplace for traders
+- [TON Earth](https://t.me/TONEarth) — TON Earth — виртуальный мир на TON
+- [PacTon](https://getgems.io/collection/omnomnomnom) — Fun, Chaos and Omnomnom!
+- [DC TON](https://dc-ton.com/) — Dangerous Chickens TON is a collection of 5,000 Good race Chickens and 5,000 Angry race Chickens.
+- [The Anime](https://t.me/TheAnime2024) — The Anime is a collection of 25K Anime NFTs - Unique digital collectibles living on TON Blockchain.
+- [Ton Hedgehog](https://t.me/hedgehog_ton) — Collection of 1111 handmake funny Hedgehogs.
+- [E-Collection](https://t.me/ecollection_ton) — E-collection proves that success is achieved not by the smartest, but by the most insane
+- [TonAirplane](https://t.me/tonairplane) — Airplane is a symbol of freedom and a reminder that it can always be defended
+- [G-Bots](https://getgems.io/collection/gbots) — First 3D NFT on TON
+- [TON Ducks](https://t.me/tonducks_nft) — First PixelArt NFT on TON
+- [NFT Animals Red List](https://t.me/RedList_NFT) — Russian language NFT with animals
+- [TONNY](https://t.me/tonjuniortonny) — Token TONNY project is a collection NFT limited edition 3000
+- [FollowDragons NFT](https://t.me/Dragons_TON) — Dragons as NFT
+- [TON Bored Ape](https://t.me/tonbored) — Awesome collection of sad monkeys
+- [SMART TIGERS](https://stteam.pro/) — This is the first collection of Smart Tigers on the NFT TON
 
-- [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) - Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.
-- [Telegram Graphics Figma file](https://www.figma.com/community/file/1248595286803212338/telegram-graphics) - Design inspirations to fasten your app's development.
-- [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) - Authorize your app's users with their TON wallets.
-- [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) - A simple, lightweight, and tree-shakable UI library for Telegram Mini Apps.
+## Wallets
 
-## Libraries
+- [Gem Wallet](https://gemwallet.com) — Web3 cryptocurrency wallet for everyone!
+- [xRocket](https://t.me/xrocket) ✓ — Cryptocurrency telegram wallet with built-in CEX
+- [Orniton ](https://t.me/Ornitonbot) — Orniton is the first TON wallet with auto-purchase and auto-sale of NFT.
+- [Revo Wallet](https://t.me/revowallet) — #1 in Crypto APY
+- [Bitget Wallet](https://t.me/Bitget_Wallet) — Best Web 3 crypto wallet for Toncoin(TON)
+- [Tonhub](https://t.me/tonhub) ✓ — Crypto wallet for TON
+- [DeWallet](https://t.me/delabtonbot) — Delab Wallet Ton
+- [Kolo Bot](https://t.me/kolo) — 💳 Apply to the waiting list and get a worldwide Crypto Card by Mastercard.
+- [OpenMask](https://chrome.google.com/webstore/detail/openmask/penjlddjkjgpnkllboccdgccekpkcbin?utm_source=openmask) — A TON Wallet in your Browser
+- [Coin Wallet](https://coin.space/) — Coin Wallet is a non-custodial multicurrency wallet for multiple platforms.
+- [NFTWallet](https://t.me/nftwalletbot) — Telegram NFT Wallet & Marketplace
+- [Sender](https://chrome.google.com/webstore/detail/sender-wallet/epapihdplajcdnnkdeiahlgigofloibg?utm_source=chrome-ntp-icon) — Your favorite Web3 wallet
+- [Swapster](https://t.me/swapsterbot?start=AQY) — A next-generation multiplatform where crypto and traditional finance unite into a single eco system
+- [Development Wallet](https://test.tonhub.com/dl) — Easy development for TON
+- [TONPAY](https://t.me/tonpay) — A fast, convenient, and secure Telegram TON wallet.
+- [Fintopio](https://t.me/fintopio) — New Payment Era
+- [MathWallet](https://t.me/mathwalletnews) — Multichain Crypto Wallet for 4 million users, 200+ blockchains & http://mathdapp.store
+- [TokenPocket](https://t.me/tokenpocket_channel) — TokenPocket is the world's leading multi-chain self-custodial wallet.
+- [Tonflow Wallet](https://t.me/tonflow_community) — Futuristic TON wallet
+- [Ammer Wallet](https://ammer.app) — Secure mobile wallet for your crypto and NFTs
+- [CryptoChill](https://t.me/CryptoChillGateway) — TON and other cryptocurrency payment processing with unlimited scaling
+- [Mixin Messenger](https://mixin.one/messenger) — Enormous apps to extend the chat and wallet capabilities
+- [xJetSwapBot](https://t.me/xjetswapbot) — Wallet for your jettons and nfts in Telegram
+- [BFinance](https://t.me/bfinancebot) — BFinance - Issuing crypto card in Telegram
+- [MixinBot](https://t.me/mixinbot) — A multi-chain crypto-wallet in Telegram
+- [Scaleton](https://explorer.scaleton.io/connect) — Your DeFi-wallet with Jetton support
+- [Atomic Wallet](https://t.me/AtomicWalletNews) — Atomic is a secure wallet for TON and dozens of other top assets.
+- [0xProcessing](https://t.me/OXprocessing) — Crypto Payments for Your Business
+- [MathWallet](https://mathwallet.org/en-us/) — popular noncustodial crypto wallet
+- [NOWPayments](https://nowpayments.io/) — Start Accepting Crypto Payments NOW
+- [SafePal](https://www.safepal.com) — cryptocurrency wallet application is a secure, decentralized, easy-to-use
+- [XTON crypto wallet](https://xtonwallet.com/) — Crypto wallet for TON blockchain
+- [Defexa](https://t.me/defexa) — Web3 bank with non-custodial cards, decentralized chats, zero-fee DEX, upcoming airdrop, and TON.
+- [The Open Test Bot](https://t.me/theopentestbot) — Users can manage their NFTs via this bot with the feature to generate ownership-proof QR codes
+- [Wallet22](https://t.me/Wallet22bot) — What sets us apart from other wallets? 0% fees on everything! USDT TRC20 transactions also 0$ fee
+- [TonDevWallet](https://github.com/TonDevWallet/TonDevWallet) — Wallet focused on enriching your development workflow.
+- [ONTO Wallet](https://t.me/ONTOWallet) — ONTO is a DID-based gateway for a seamless Web3 experience ,allowing you to manage your assets.
+- [Top-Wallets](https://complex-soft.com/top_wallets.html) — Multiple wallets cryptocurrency for Windows
+- [Trust Wallet](https://trustwallet.com) — The most trusted & secure crypto wallet
 
-<!-- lint ignore double-link -->
+## Social
 
-- [@twa-dev/SDK](https://github.com/twa-dev/SDK) - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
-- [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
-- [flutter_telegram_web](https://pub.dev/documentation/flutter_telegram_web_app/latest) - Build Telegram Mini Apps with Flutter.
-- [Typings for Telegram Mini Apps](https://github.com/DavisDmitry/telegram-webapps/tree/master) - TypeScript typings for the WebApp API.
-- [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) - Init data validation utilities for Go.
-- [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) - React hooks and components for building the WebApp API.
-- [Cloud Storage Dedub](https://github.com/websashka/eruda-tma-cloudstorage) - Eruda plugin for debug Cloud Storage in Telegram Mini apps.
-- [telegram-webapp-auth](https://github.com/swimmwatch/telegram-webapp-auth) - Init data validation utilities for Python.
+- [Pollo](https://t.me/pollovotebot) — NEW: Use opinions to connect 👋
+- [Tonation](https://t.me/tonationme) — Crypto Donations for Streamers Without Borders 🚀 Instant payouts, low fees, and TON support
+- [Tonkol](https://t.me/tonkoltrades) — Tonkol is a real-time tracker of KOLs and Traders on TON
+- [LiveHub](https://t.me/livehub_to) — 🌍 Crypto Donations, Unlimited — 300+ Coins In, Instant TON Out ⚡ For Creators Everywhere
+- [ton.place](https://ton.place) — Create content and get paid on ton.place
+- [Tonika](https://tonika.me) — Sell everything as NFT
+- [Photon](https://t.me/The_Photon_app) — a social app to express yourself, discover your friends, and bring your dreams to life.
+- [Ton Shiba Inu](https://t.me/ton_shibainu) — Shiba Inu on Ton Blockchain
+- [Towim](https://t.me/towimbot) — Towim is a dating platform specifically designed for web specialists and enthusiasts.
+- [loofta](https://t.me/looftabot) — Complete Deals, Earn Money, Build Your Reputation
+- [Friends Protocol](https://4riends.org) — Friends is a social protocol built on TON network that uses NFTs to connect users and developers
+- [Metafork](https://metafork.io/) — Metafork — социальная сеть и сервис микро-блогов с интеграцией в блокчейн The Open Network
+- [Peace Da Love](https://peacedalove.com) — Catalogue TON Projects
+- [Fox Tails](https://foxtails.io) — Social network with deep NFT integration
+- [Tonex](https://tonex.app) — web 3.0 social network
+- [HuntFi](https://t.me/HuntFiChat) — Treasure Hunting | Powered by TON
+- [Host.tg](https://t.me/hosteventbot) — Attend and host online and offline events via Telegram ID for FREE.
+- [AI Sketch Art](https://t.me/sketchartai_ann) — Sketch-to-earn, share your creative with artworld
+- [behind](https://t.me/bhndbot) — place for good deals
+- [IrenSystem](https://t.me/demoirensystembot) — Построй свою биржу услуг или маркетплейс с TON Connect.
+- [TONpie](https://tonpie.io) — NEXT GEN forum about TON and web 3.0 with multiple utilities
 
-## Templates
+## AI Agents
 
-- [@twa-dev/webpack-boilerplate](https://github.com/twa-dev/webpack-boilerplate)
-- [@twa-dev/vanilla-js-boilerplate](https://github.com/twa-dev/vanilla-js-boilerplate)
-- [@twa-dev/vite-boilerplate](https://github.com/twa-dev/vite-boilerplate)
-- [TON integration template](https://github.com/ton-community/twa-template)
-- [@ton-defi-org/tonstarter-twa](https://github.com/ton-defi-org/tonstarter-twa)
-- [Telegram Onboarding Kit](https://github.com/Easterok/telegram-onboarding-kit)
-- [Turborepo-based fullstack monorepo with TON integration](https://github.com/DKeken/turborepo-ton-trpc)
-- [TMA Starter Kit](https://github.com/devflex-pro/tma-starter-kit)
+- [Tonkeeper](https://t.me/tonkeeper) ✓ ★ — A mobile wallet in your pocket
+- [Wallet](https://t.me/wallet) ✓ ★ — Easiest way to get crypto in Telegram
+- [MyTonWallet](https://t.me/MyTonWalletEn) ✓ ★ — The most feature-rich and security-oriented wallet for TON
+- [Crypto Bot](https://t.me/cryptobot) ✓ — Simple. Reliable. Powerful
+- [Tribute](https://t.me/tribute) — Monetize content through donations and subscriptions.
 
-## Projects
+## Staking
 
-- [Telebook](https://github.com/neSpecc/telebook) - Hotel booking app concept.
-- [StickerWiz](https://github.com/TatianaFomina/stkrz_bot) - Telegram MiniApp that allows to create personalised sticker packs.
-- [fStik](https://github.com/fstik-app/catalog) - Telegram sticker catalog.
-- [ChessNowBot](https://github.com/Quatern1on/ChessNowBot) - Play chess live with other Telegram users.
-- [TRide](https://github.com/ArashYounesi/TRide) - Ride booking app concept.
-- [TeleOTP](https://github.com/UselessStudio/TeleOTP) - A one-time password generator.
-- [Mini Events](https://github.com/mbasaglia/mini_apps) - Python framework to create event-based Mini Apps.
-- [Notepher](https://github.com/deptyped/notepher-bot) - A note taking app synced with the Telegram cloud.
-- [MiniWoo](https://github.com/mini-woo/mini-woo) - A Telegram Mini App for WooCommerce.
-- [@PaintBot](https://github.com/hip-hyena/PaintBot) - Collaboratively create small hand-drawn images.
-- [MedSync](https://github.com/Latand/MedSyncWebApp) - Healthcare booking app concept.
-- [DPXWallet](https://github.com/erfanmola/DPXWallet) - Crypto wallet app concept.
-- [Calculator](https://github.com/ArashYounesi/TCalculator) - Calculator app concept.
-- [Wishlist](https://github.com/grulex/telegram-wishlist-miniapp) - Organize your wishes.
-- [Next.js Example](https://github.com/mauriciobraz/next.js-telegram-webapp) - Example for developing using Next.js.
-- [aiogram-aiohttp Example](https://github.com/abdullaev388/Telegram-Web-App) - Example for developing using aiogram and aiohttp.
-- [Datetime Picker](https://github.com/Expented/tgdtp) - Date and time picker component.
-- [Python Backend Example](https://github.com/poshl000/telegram-webapp-bot) - Example for using Python for the backend.
-- [MemoCard](https://github.com/kubk/memo-card) - Flashcard app for improving memory with spaced repetition. 
+- [Stakee](https://t.me/StakeeRu) ★ — Earn TON with best APY at most secure and profitable staking service
+- [Flagship Crypto](https://t.me/Flagshipfyibot?start=ref_X1Ufh16aog7qwXI07Oh8) — 📈 Predict the best performing Crypto of the day and earn $FYI.
+- [Ton Stake Lottery](https://tonstakelottery.com/) — Stake TON together!  No Loss Smart Contract Lottery!
+- [TonTake (TAKE)](https://http://t.me/TonTakeChatbot) — Electronic money of the TonTake project
+- [Telegram USD (tgusd)](https://t.me/torch_ton) — tgusd is a stablecoin built for telegram users.
+- [Whales Staking](https://t.me/stakeonwhales) ✓ — The first largest decentralized TON staking
+- [Tonyielding](https://t.me/tonyieldingbot/dapp) — Yield Farming & Building DeFi Protocol
+- [TonStake.com](https://t.me/tonstake_com_en ) — Maximize Your Rewards with TonStake – Secure, Efficient, and the Largest Staking Pool on TON!
+- [UTN Staking](https://t.me/uniton_token) — Hold. Stake. Farm. Earn, With Simple Staking, UNITON tokens are available for yield earning.
+- [Owls Capital](https://t.me/owlscapitalbot) — GameFi application on the TON blockchain for liquidity farming with fixed returns
+- [Whales Liquid Pool](https://t.me/stakeonwhales) ✓ — Liquid Pool from the authors of the first and largest staking in TON
 
-## Products
+## Shopping
 
-- [TON Play](https://tonplay.io) - A toolkit that allows game developers to leverage the power of Telegram.
-- [Telegram Shop Platform](https://telegramwebapps.ru) - Sell your products inside Telegram.
-- [@wallet](https://wallet.tg) - Store, send and exchange crypto assets inside Telegram.
-- [Tribute](https://tribute.t.me) - Monetize content through donations and subscriptions.
-- [Community](https://community_bot.t.me) - Telegram-native toolset for communities.
-- [Fanton Fantasy Football](https://fantongamebot.t.me)
-- [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
-- [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
-- [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
+- [Play Wallet](https://t.me/playwallet_news) ✓ — Top up games with crypto
+- [OpenMarketplace](https://t.me/OpenMarketplaces) — Discover shops on Telegram!
+- [webappz](https://t.me/webappzconnectbot) — Automatic Telegram Shop/Menu Cafe builder
+- [Sellz](https://t.me/sellzbot) — Turn Telegram into your shop!
+- [Solo ](https://t.me/solobankbot) ✓ — Make any payments
+- [Piata](https://t.me/piata_official) — No-code platform to create and manage Telegram stores.
+- [GiftX: AI Wishlist](https://t.me/giftx_community_ru) — Smart wishlist with an AI assistant. Find perfect gifts for you and your loved ones.
+- [TonoGram](https://t.me/tonogrampremiumbot) — Bot helps with getting Telegram subscription with TON as payment tool
+- [Defexa](https://t.me/defexa) — Fiat & crypto payment gateway accepting USDT on TON.
+- [bionapp](https://t.me/bion_announcements) — Experience shopping in Web3
+- [TON Dark Market](https://t.me/TONDarkMarketbot) — Use TON to purchase educational materials, software, and books.
+- [monomenu](https://t.me/monodashboardbot) — Modern shops with TON payments
 
-## Communities
+---
 
-- [Telegram Chat](https://t.me/twa_dev) - Get help from our friendly community.
-- [twa-dev GitHub](https://github.com/twa-dev) - A set of tools that helps you develop your apps in a fast and convenient way.
+## Legend
 
+- ✓ Verified app
+- ★ Editor's Choice
+
+## Contributing
+
+Found a Mini App that's missing? Contributions are welcome!
+
+1. Open a pull request adding the app to the correct category
+2. Or submit it directly at **[tg.app](https://tg.app)** — the full-featured directory with ratings, reviews, and screenshots
+
+## About tg.app
+
+**[tg.app](https://tg.app)** is the #1 discovery platform for Telegram Mini Apps. It features:
+
+- Ratings & user reviews for every app
+- Editor's Choice picks and verified badges
+- Category browsing across Games, Finance, NFT, Tools, Wallets, and more
+- App submission for developers
+
+If you build Telegram Mini Apps, **[list your app on tg.app](https://tg.app)** to reach thousands of users.
+
+---
+
+<div align="center">
+  <a href="https://tg.app">
+    <img src="logo.svg" alt="tg.app" width="120" />
+  </a>
+  <br/>
+  <sub>Data sourced from <a href="https://tg.app">tg.app</a> — the leading Telegram Mini App directory</sub>
+</div>
+- [Tiny Telegram Tools](https://tg.zovo.one) — 22 single-purpose Telegram bots: anonymous inbox, party games, expense splitter, habit tracker, reminders, focus timer, and more.
